@@ -1,0 +1,3 @@
+direct:
+  endpoint:
+    getAllDetails: http://localhost:8339/api/test-controller
